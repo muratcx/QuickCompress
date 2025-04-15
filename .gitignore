@@ -1,0 +1,9 @@
+ffmpeg.exe
+ffprobe.exe
+compress_video.exe
+QuickCompressSetup.iss
+Output
+dist
+*.reg
+/bin/ffprobe.exe
+/bin/ffmpeg.exe
